@@ -1,7 +1,6 @@
 /*
-Program by: Alan Murphy - C19717889
+Program by: Alan Murphy 
 Module: Algorithm & Data Structures
-Lecturer: Richard Lawlor 
 Date: 18/04/2021
 */
 

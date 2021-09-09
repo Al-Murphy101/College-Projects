@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="CA_Project_Alan_Murphy" id="1089B830-4EBE-7787-D284-36B3D3E3664C" version="3.5">
-<createdBy>maurice.reid</createdBy>
-<createdTime>2020-11-29 19:36:29 UTC</createdTime>
-<ownerDesignName>CA_Project_Alan_Murphy</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>1089B830-4EBE-7787-D284-36B3D3E3664C</designId>
-</OSDM_Design>
